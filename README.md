@@ -1,6 +1,9 @@
-# pacsbin-issues
-Public issue tracker for the Pacsbin platform
+# Pacsbin community repo
 
-Review existing issues here: https://github.com/OrionMD/pacsbin-issues/issues
+This repository is here to allow issue tracking and discussions for the Pacsbin platform.
 
-Submit new issues here: https://github.com/OrionMD/pacsbin-issues/issues/new
+Start a discussion here: https://github.com/OrionMD/pacsbin-community/discussions
+
+Review existing issues here: https://github.com/OrionMD/pacsbin-community/issues
+
+Submit new issues here: https://github.com/OrionMD/pacsbin-community/issues/new
